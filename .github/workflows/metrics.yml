@@ -16,7 +16,7 @@ jobs:
           filename: metrics-left.svg
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_isocalendar: yes
+          plugin_isocalendar: no
           plugin_stars: no
 
 
@@ -26,5 +26,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: mrsgzg
           filename: metrics-right.svg
+          plugin_languages: no
+          plugin_languages_indepth: no
+          plugin_isocalendar: yes
           plugin_stars: no
           plugin_achievements: yes
