@@ -1,4 +1,3 @@
-```markdown
 # Hi 👋, I'm Mr. SGZG
 
 🎓 Human-robot Interaction & Emotional Cognitive Robotics  
@@ -32,4 +31,3 @@
 ## ⚡ Fun Fact
 - café ☕ + Python 🐍 + Croissant 🥐= ❤️  
 - Love combining AI with psychology & robotics
-```
