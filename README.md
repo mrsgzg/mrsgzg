@@ -9,6 +9,7 @@
 
 ![Metrics](https://raw.githubusercontent.com/mrsgzg/mrsgzg/main/github-metrics.svg)
 
+![Alt](https://repobeats.axiom.co/api/embed/ce539bed97aa8d96c1798aa86739a6bbab458436.svg "Repobeats analytics image")
 ---
 
 ## 🚀 Currently Working On
