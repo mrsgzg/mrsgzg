@@ -14,8 +14,4 @@ jobs:
           # Plugin
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_repositories: yes
-          plugin_reactions: yes
-          plugin_stars: yes
           plugin_isocalendar: yes
-          plugin_followup: yes
