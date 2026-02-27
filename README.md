@@ -1,8 +1,7 @@
 # Hi 👋, I'm Zhegong Shangguan
 
-🎓 Human-Computer Interaction & Emotional Cognitive Robotics  
-💼 Founder of Social Intelligence Robotics Team @ IP Paris  
-🌍 Based in Paris / Wuhan, France & China  
+🎓 Human-robot Interaction & Emotional Cognitive Robotics  
+🌍 Based in Manchester, UK / Paris, France  
 
 ---
 
