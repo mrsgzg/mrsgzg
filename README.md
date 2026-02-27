@@ -4,12 +4,17 @@
 🌍 Based in Manchester, UK / Paris, France  
 
 ---
+
+## ⚡ GitHub Stats
+
 <table>
   <tr>
     <td>
       <img src="https://raw.githubusercontent.com/mrsgzg/mrsgzg/main/metrics-left.svg" />
     </td>
     <td>
+      <img src="https://raw.githubusercontent.com/mrsgzg/mrsgzg/main/assets/hri25-un-sdg-1536x1536.jpg" width="400" />
+      <br/>
       <img src="https://raw.githubusercontent.com/mrsgzg/mrsgzg/main/metrics-right.svg" />
     </td>
   </tr>
