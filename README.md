@@ -9,7 +9,7 @@
       <img src="https://raw.githubusercontent.com/mrsgzg/mrsgzg/main/metrics-left.svg" />
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/mrsgzg/mrsgzg/main/HRI25.png" width="200" />
+      <img src="https://raw.githubusercontent.com/mrsgzg/mrsgzg/main/HRI25.png" width="250" />
       <br/>
       <img src="https://raw.githubusercontent.com/mrsgzg/mrsgzg/main/metrics-right.svg" />
     </td>
