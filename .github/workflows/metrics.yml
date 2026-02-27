@@ -19,6 +19,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_stars: no
 
+
       - name: Right column
         uses: lowlighter/metrics@latest
         with:
