@@ -14,11 +14,11 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: mrsgzg
           filename: metrics-left.svg
+          base: "activity, community, repositories, metadata"
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_isocalendar: no
           plugin_stars: no
-
 
       - name: Right column
         uses: lowlighter/metrics@latest
@@ -26,8 +26,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: mrsgzg
           filename: metrics-right.svg
+          base: ""
           plugin_languages: no
-          plugin_languages_indepth: no
           plugin_isocalendar: yes
           plugin_stars: no
           plugin_achievements: yes
