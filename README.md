@@ -1,4 +1,4 @@
-# Hi 👋, I'm Zhegong Shangguan
+# Hi 👋, I'm Mr. SGZG
 
 🎓 Human-robot Interaction & Emotional Cognitive Robotics  
 🌍 Based in Manchester, UK / Paris, France  
