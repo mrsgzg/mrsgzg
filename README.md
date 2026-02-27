@@ -20,12 +20,6 @@
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zhegong-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mrsgzg)  
-[![Email](https://img.shields.io/badge/Email-zhegong.shangguan@gmail.com-red?style=flat-square&logo=gmail)](mailto:zhegong.shangguan@gmail.com)
-
----
-
 ## ⚡ Fun Fact
-- Coffee ☕ + Python 🐍 = ❤️  
+- café ☕ + Python 🐍 + Croissant 🥐= ❤️  
 - Love combining AI with psychology & robotics
