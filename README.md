@@ -7,9 +7,8 @@
 
 ## ⚡ GitHub Stats
 
-![Zhegong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrsgzg&show_icons=true&theme=radical)
+![Metrics](https://raw.githubusercontent.com/mrsgzg/mrsgzg/main/github-metrics.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsgzg&layout=compact&theme=radical)
 ---
 
 ## 🚀 Currently Working On
