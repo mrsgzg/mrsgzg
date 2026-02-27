@@ -4,9 +4,6 @@
 🌍 Based in Manchester, UK / Paris, France  
 
 ---
-
-## ⚡ GitHub Stats
-
 <table>
   <tr>
     <td>
